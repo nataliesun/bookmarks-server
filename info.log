@@ -10,3 +10,14 @@
 {"message":"Bookmark with id 957f291a-67c7-4753-9f7c-7f487ff27d84 created","level":"info"}
 {"message":"Bookmark with id 1 deleted.","level":"info"}
 {"message":"Card with id 1 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id d8f0288c-d072-4e95-8a4e-9beafd53fb76 created","level":"info"}
+{"message":"Bookmark with id 1 deleted.","level":"info"}
+{"message":"Bookmark with id 4dfe70d9-5ee4-4da5-8576-16be2418753a created","level":"info"}
+{"message":"Bookmark with id 1 deleted.","level":"info"}
+{"message":"Bookmark with id 1091eb97-4650-4d5c-ac79-3bedeb0613e4 created","level":"info"}
+{"message":"Bookmark with id 1 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /HNAP1/","level":"error"}
