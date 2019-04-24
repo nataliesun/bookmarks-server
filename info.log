@@ -1,0 +1,12 @@
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Card with id 2 not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Bookmark with id d7890b56-e983-44af-9b46-56b469f964c0 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Bookmark with id d96e8ffc-8f9d-4208-8851-e45b61bbffd5 created","level":"info"}
+{"message":"Bookmark with id 957f291a-67c7-4753-9f7c-7f487ff27d84 created","level":"info"}
+{"message":"Bookmark with id 1 deleted.","level":"info"}
+{"message":"Card with id 1 not found.","level":"error"}
